@@ -1,10 +1,30 @@
 # bank_website
 Banking Web Site Project
-![3](https://user-images.githubusercontent.com/56357173/179157683-0646f94f-c4c9-4dba-ba0f-6105c872aeef.jpg)
-![4](https://user-images.githubusercontent.com/56357173/179157687-fc1925bd-b85a-4ac5-ba83-a6f22f2f2bf1.jpg)
-![5](https://user-images.githubusercontent.com/56357173/179157690-245f12c3-a35b-498d-9e33-f3301a05a58b.jpg)
-![6](https://user-images.githubusercontent.com/56357173/179157693-affb5a57-0dee-4d63-a473-9779bd2e8e49.jpg)
-![7](https://user-images.githubusercontent.com/56357173/179157696-41e763d1-755f-47cf-92ff-09e4b069eb91.jpg)
-![8](https://user-images.githubusercontent.com/56357173/179157698-0feaabe1-7895-4c89-9ad5-09d8d453f573.jpg)
-![9](https://user-images.githubusercontent.com/56357173/179157700-3f13b05d-6d9e-46a3-83c8-c518f464b18e.jpg)
-![1](https://user-images.githubusercontent.com/56357173/179157701-bac5848f-925b-4c5c-8a9f-ce85173807d9.jpg)
+
+#FEATURES OF THIS PROJECT:
+1. USER CAN SEE THE PASSBOOK ONLINE.
+2. USER CAN SEND MONEY TO OTHER USERS.
+3. USER CAN GENERATE THE UNIQUE ID FOR EASY TRANSCATIONS.
+4. CREATE A NEW ONLINE ACCOUNT AND START USING IT.
+
+#INDEX PAGE FOR USER
+![1](https://user-images.githubusercontent.com/56357173/179157807-e3127559-e89e-4fba-b150-b0ba17cdb73d.jpg)
+![2](https://user-images.githubusercontent.com/56357173/179157879-eb0d9281-ef30-46bb-ae1b-6ce4c115ab44.jpg)
+
+
+#CREATING A NEW ACCOUNT FOR USER
+![3](https://user-images.githubusercontent.com/56357173/179157896-81f89434-582e-48fb-83e4-ba16541810f5.jpg)
+-----------------------------------------------------------------
+![4](https://user-images.githubusercontent.com/56357173/179158027-0e99623c-3ece-456f-b182-5416144c0ed9.jpg)
+
+#GENERATING A NEW PIN FOR TRANSCATIONS.
+![5](https://user-images.githubusercontent.com/56357173/179157996-128df496-7269-4ccd-a6e1-6063b3369cc6.jpg)
+
+#AFTER SUCCESSFUL LOGIN THE HOME PAGE OF USER LOOK LIKE.
+![7](https://user-images.githubusercontent.com/56357173/179158104-c216c8e2-9064-4ccc-94d4-2eec39344a3b.jpg)
+
+#USER CAN SEE PAST TRANSCATION WITH OTHERS.
+![8](https://user-images.githubusercontent.com/56357173/179158112-9d79717b-eaae-43f7-bd97-9dd2584a5e5d.jpg)
+
+#USER CAN PAY TO OTHERS BY USING THEIR CUSTOMER ID AND ENTER AMOUNT TO BE PAID.
+![9](https://user-images.githubusercontent.com/56357173/179158168-73ccbfcd-3b17-414f-8a89-b3894780775a.jpg)
